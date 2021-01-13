@@ -26,7 +26,7 @@
 ## LINKS
 
 - [jQueryAJAX Link](https://nicholasd-uci.github.io/axiosMovieApp/)
-- [Github Repo Link](https://github.com/nicholasd-uci/axiosMovieApp)
+- [GitHub Repo Link](https://github.com/nicholasd-uci/axiosMovieApp)
 - [Nicholas Dallas GitHub](https://github.com/nicholasd-uci)
 
 - - -
