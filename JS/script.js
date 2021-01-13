@@ -1,14 +1,11 @@
 // Axios CDN - GitHub
-
-
-
+// Promise Base Function
 document.getElementById('search').addEventListener('click', event => {
     event.preventDefault()
     let title = document.getElementById('title').value
 
     axios.get(`http://www.omdbapi.com/?t=${title}&apikey=11bc5e4c`)
     .then(res => {
-        console.log(res.data)
         let movie = res.data
         let movieElem = document.createElement('div')
         movieElem.innerHTML = `
@@ -25,3 +22,8 @@ document.getElementById('search').addEventListener('click', event => {
     })
     .catch( err => { console.log(err) })
 })
+
+
+
+
+
