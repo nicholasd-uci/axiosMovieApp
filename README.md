@@ -1,5 +1,5 @@
 # axiosMovieApp
-## utilizing AXIOS request to gather information from an Movie API
+## Utilizing AXIOS request to gather information from an Movie API
 
 > In this repository we created a movie app that is powered by JavaScript and uses the AXIOS method request to OMDBAPI.com. 
 
